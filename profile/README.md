@@ -2,7 +2,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdfe81ac-e68c-4a34-98d2-9aa1c3d5646a" />
 
 ## 개요
-GSM에서 전공 고민과 멘토링에 관한 문제를 해소하기 위한 서비스 GAMI 입니다!
+### GSM에서 전공 고민과 멘토링에 관한 문제를 해소하기 위한 서비스 GAMI 입니다!
 
 ## BackEnd Devleoper
 * 한의준 [hej090224](https://github.com/hej090224)
